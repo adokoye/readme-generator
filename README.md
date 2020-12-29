@@ -50,7 +50,7 @@
 
   ## Tests:
 
-  [WalkThrough Video](https://www.youtube.com/watch?v=OoFoAB0_UDk&feature=youtu.be)
+  [WalkThrough Video]()
 
   
   ## Questions:
