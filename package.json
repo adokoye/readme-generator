@@ -1,0 +1,30 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Wills",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamWills89/potential-enigma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CamWills89/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/CamWills89/potential-enigma#readme",
+  "description": "generates a readme file for your project",
+  "keywords": [
+    "node",
+    "readme",
+    "javaScript"
+  ],
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}
