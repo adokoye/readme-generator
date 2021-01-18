@@ -30,7 +30,7 @@
 
   ## Credits:
 
-  Made by Adaobi C Okoye
+  Curated by Adaobi C Okoye
 
 
   ## License:
