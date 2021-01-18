@@ -5,7 +5,7 @@
 
   ![License](https://img.shields.io/badge/License-ISC-blue.svg "License Badge")
 
-    This is a simple readme generator that prompts for details about your project in node and the result then generates a professional readme.
+    This is a readme generator that prompts for details about your project in node and the result generates a professional readme.
 
 
   # Table of Contents
@@ -20,12 +20,12 @@
 
   ## Installation:
 
-  Clone or download the repo to your machine. Initiate node with "npm instal" and then install inquirer with "npm install inquirer"
+  Clone or download the repo to your computer. Initiate node with "npm instal" and then install inquirer with "npm install inquirer"
 
 
   ## Usage:
 
-  Use this as a tool to generate a fast and professional readme
+  Use this as a tool to generate a professional readme
 
 
   ## Credits:
@@ -44,7 +44,7 @@
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
   
-  The project is open source. Feel free to contribute
+  This project is an open source, please feel free to contribute
 
 
 
@@ -58,6 +58,8 @@
   For any questions you may have, please visit my Github profile:
   - [Github Profile](https://github.com/adokoye)
 
+
   If you have any additional questions, feel free to email them to me:
-  - [Email](adaobicynthia99@gmail.com)
+  - [Email](adaobi.okoye@ttuhsc.edu)
+  
 # readme-generator
